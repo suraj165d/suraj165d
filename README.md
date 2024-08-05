@@ -2,7 +2,7 @@
    Hey there :heartbeat: ! I'm Suraj Dey!
  </h1>
 <p align="center">
-    * I'm a 2nd year student in KIIT, Bhubaneswar, Odisha :classical_building: pursuing Bachelors in Computer Science :student:. I'm a passionate and a friendly person who's willing to learn and work with different people for a wider perspective and exposure:star_struck:. * </p>
+    * I'm a 4nd year student in KIIT, Bhubaneswar, Odisha :classical_building: pursuing Bachelors in Computer Science :student:. I'm a passionate and a friendly person who's willing to learn and work with different people for a wider perspective and exposure:star_struck:. * </p>
 
 ## 📈 Stats
 <p align="center">
