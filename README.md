@@ -2,7 +2,7 @@
    Hey there :heartbeat: ! I'm Suraj Dey!
  </h1>
 <p align="center">
-    * I'm a 4nd year student in KIIT, Bhubaneswar, Odisha :classical_building: pursuing Bachelors in Computer Science :student:. I'm a passionate and a friendly person who's willing to learn and work with different people for a wider perspective and exposure:star_struck:. * </p>
+    * I'm a 4th year student in KIIT, Bhubaneswar, Odisha :classical_building: pursuing Bachelors in Computer Science :student:. I'm a passionate and a friendly person who's willing to learn and work with different people for a wider perspective and exposure:star_struck:. * </p>
 
 ## 📈 Stats
 <p align="center">
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with front-end...
 - 💬 Ask me about python...
 - 📫 How to reach me: 2105165@kiit.ac.in...
-- 😄 Pronouns: Suraj Dey...
+- 😄 Pronouns: He/Him...
 - ⚡ Fun fact: 
 
   	"Q. What did the process say after working in an infinite loop all day?
